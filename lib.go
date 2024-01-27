@@ -29,3 +29,8 @@ func Union[K comparable](collections [][]K) []K {
 	}
 	return union
 }
+
+func SubSet[K comparable](a []K, b []K) []K {
+	// TODO: implement
+	return []K{}
+}
