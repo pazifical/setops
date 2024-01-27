@@ -1,4 +1,4 @@
-package setops
+package main
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package setops
+package main
 
 func Intersection[K comparable](collections [][]K) []K {
 	occurrenceCounter := make(map[K]int)
